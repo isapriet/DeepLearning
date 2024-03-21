@@ -1,2 +1,6 @@
-# Deep_Learning
-Deep_Learning predicción de precios datos tabulares e imágenes.
+# Deep Learning
+
+El propósito de este proyecto es realizar predicciones sobre los precios de las habitaciones de Airbnb mediante la implementación de un enfoque de Deep Learning. Se utiliza un conjunto de datos que abarca una amplia gama de características, incluyendo datos numéricos, texto e imágenes. El objetivo es fusionar eficazmente estos diversos tipos de datos mediante el empleo de modelos de redes neuronales, tales como redes neuronales convolucionales (CNN) para procesamiento de imágenes y modelos diseñados para datos 1D. Al final, buscamos desarrollar un modelo híbrido que integre de manera sinérgica ambas fuentes de información para mejorar la precisión de nuestras predicciones.
+
+
+The purpose of this project is to make predictions on Airbnb room prices using a Deep Learning approach. I utilize a dataset encompassing a wide array of features, including numerical data, text, and images. The objective is to effectively merge these diverse data types by employing neural network models, such as Convolutional Neural Networks (CNNs) for image processing and models designed for 1D data. Ultimately, to develop a hybrid model that synergistically integrates both sources of information to enhance the accuracy of my predictions.
